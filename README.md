@@ -3,8 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengizhanyurdakul" alt="cengizhanyurdakul" /> </p>
 
 - 🔭 I’m currently working on **GANs, Object Detection, Image Classification, Face Anonymization**
-
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **cengizhanyurdakul97@gmail.com**
+
+
 
 </p><p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="100"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python"  height="100"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="70"/>
 <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="70" />
