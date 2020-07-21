@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **cengizhanyurdakul97@gmail.com**
 
-</p><p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="70"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python"  height="70"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="70"/>
+</p><p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="100"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python"  height="100"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="70"/>
 <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="70" />
 <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" height="50" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="70" /><p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=cengizhanyurdakul&show_icons=true" alt="cengizhanyurdakul" /> 
 
