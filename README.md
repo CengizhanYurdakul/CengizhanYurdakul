@@ -2,6 +2,7 @@
 <h3 align="center">Computer Vision Engineer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengizhanyurdakul" alt="cengizhanyurdakul" /> </p>
 
+
 - 🔭 I’m currently working on **GANs, Object Detection, Image Classification, Face Anonymization**
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **cengizhanyurdakul97@gmail.com**
