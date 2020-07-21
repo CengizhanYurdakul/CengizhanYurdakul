@@ -10,5 +10,4 @@
 <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="70" />
 <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" height="50" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="70" /><p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=cengizhanyurdakul&show_icons=true" alt="cengizhanyurdakul" /> 
 
-[![Linkedin: CengizhanYurdakul](https://img.shields.io/badge/-CengizhanYurdakul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/cengizhan-yurdakul-a43a1518b/)
-[![GitHub CengizhanYurdakul](https://img.shields.io/github/followers/cengizhanyurdakul?label=follow&style=social)](https://github.com/CengizhanYurdakul)
+[![Linkedin Badge](https://img.shields.io/badge/CengizhanYurdakul-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cengizhan-yurdakul-a43a1518b/)
