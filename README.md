@@ -9,4 +9,4 @@
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cengizhanyurdakul&show_icons=true" alt="cengizhanyurdakul" /> </p>
 
 [![Linkedin: CengizhanYurdakul](https://img.shields.io/badge/-CengizhanYurdakul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/cengizhan-yurdakul-a43a1518b/)
-[![GitHub CengizhanYurdakul](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/CengizhanYurdakul)
+[![GitHub CengizhanYurdakul](https://img.shields.io/github/followers/cengizhanyurdakul?label=follow&style=social)](https://github.com/CengizhanYurdakul)
