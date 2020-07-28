@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengizhanyurdakul" alt="cengizhanyurdakul" /> </p>
 
 
+- 💼 I'm working as a Computer Vision Engineer at [Syntonym](https://syntonym.com/)
 - 🔭 I’m currently working on **GANs, Object Detection, Image Classification, Face Anonymization**
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **cengizhanyurdakul97@gmail.com**
