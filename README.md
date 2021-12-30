@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cengizhan</h1>
 <h3 align="center">Computer Vision Engineer from Turkey</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cengizhanyurdakul" alt="cengizhanyurdakul" /> </p>
 
 
 - 💼 I'm working as a Computer Vision Engineer at [Syntonym](https://syntonym.com/)
