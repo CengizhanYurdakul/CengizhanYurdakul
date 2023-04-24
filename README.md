@@ -20,6 +20,6 @@
   
 <hr></hr>
 </p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cengizhanyurdakul&show_icons=true" alt="cengizhanyurdakul" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=CengizhanYurdakul&show_icons=true" alt="cengizhanyurdakul" /> 
 
 [![Linkedin Badge](https://img.shields.io/badge/CengizhanYurdakul-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cengizhan-yurdakul-a43a1518b/)
