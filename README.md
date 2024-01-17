@@ -3,7 +3,7 @@
 
 
 - 💼 I'm working as a Computer Vision Engineer at [Syntonym](https://syntonym.com/)
-- 🔭 I’m currently working on **GANs, Object Detection and Tracking, Face Recognition, Image Classification, Face Anonymization**
+- 🔭 I’m currently working on **All variants of GenerativeAI**
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **cengizhanyurdakul97@gmail.com**
 
